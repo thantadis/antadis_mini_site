@@ -8,7 +8,7 @@ MINI SITE ANTADIS
 ### Pré-requis
 
 - NodeJs(last version)
-- Visual Studio Code ou Sublime ou un autre Editeur de texte selon nos choix
+- Visual Studio Code ou Sublime ou un autre Editeur de texte selon vos choix
 
 ### Installation
 - Executer la commande npm `` npm i `` pour installer les packages nécessaires au projet
