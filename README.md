@@ -1,5 +1,5 @@
 # Titre du projet
-MINI SITE ANTADIS
+MINI SITE AVEC REACT 
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](http://forthebadge.com)
 
@@ -24,7 +24,7 @@ MINI SITE ANTADIS
 
 
 ## Auteurs
-* **Andy Ranaivo** (https://github.com/outout14)
+* **Andy Ranaivo** (https://github.com/AndyKoloina)
 
 
 
