@@ -11,10 +11,10 @@ TEST ANTADIS PETIT MONSTRE LE GUERRIER
 - Visual Studio Code ou Sublime ou un autre Editeur de texte selon vos choix
 
 ### Installation
-- Executer la commande npm `` npm i `` pour installer les packages nécessaires au projet
+- Executer la commande `` npm i `` pour installer les packages nécessaires au projet
 
 ## Démarrage
-- Executer la commande npm `` npm start `` pour démarrer 
+- Executer la commande `` npm start `` pour démarrer 
 - vous obtenez un lien par la suite (http://localhost:3000/)
 
 ## Fabriqué avec
