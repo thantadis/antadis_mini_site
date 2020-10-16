@@ -1,0 +1,41 @@
+.current_price span{
+    font-size: 40px;
+    line-height: 38px;
+    font-family: 'Museo 700';
+}
+@media (min-width: 992px) {
+    .current_price span{
+        font-size: 50px;
+        letter-spacing: 1px;
+    }
+    .current_price {
+        margin-bottom: 5px;
+    }
+}
+.old_price span:first-child {
+    font-size: 16px;
+    font-family: 'MuseoSans-300';
+    font-style: italic;
+    color: #666;
+}
+
+.old_price span:last-child {
+    font-size: 16px;
+    font-family: 'Museo 700';
+    text-decoration: line-through;
+    letter-spacing: 0.5px;
+}
+@media (min-width: 992px) {
+    .old_price span:first-child , .old_price span:last-child {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 991px) {
+    .product_price {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+}

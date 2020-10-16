@@ -1,0 +1,36 @@
+{
+  "name": "Petit monstre guerrier",
+  "description_short": "Magnifique et sympathique petit monstre !",
+  "description": "<p>Issu d’un petit élevage familial, visite sur place pour réservation. Petit monstre de race 100 % certifié avec puce électronique, son carnet de santé est à jour et en règle. Ce petit monstre attend votre adoption contre amour, bons soins et beaucoup de câlins !<br/><br/></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pharetra ex sit amet dolor aliquet faucibus consequat ac ex. Aenean enim dui, molestie nec nisl sit amet, molestie bibendum est. Vivamus ligula tellus, mattis non porttitor eget, eleifend eget tortor. Praesent fringilla vitae nisl et tempus. Nulla ornare nulla volutpat erat blandit finibus. Integer et lacus ut arcu vestibulum eleifend.</p>",
+  "more_info": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pharetra ex sit amet dolor aliquet faucibus consequat ac ex. Aenean enim dui, molestie nec nisl sit amet, molestie bibendum est. Vivamus ligula tellus, mattis non porttitor eget, eleifend eget tortor. Praesent fringilla vitae nisl et tempus. Nulla ornare nulla volutpat erat blandit finibus. Integer et lacus ut arcu vestibulum eleifend.</p>",
+  "prices" : {
+    "current_price" : 140,
+    "old_price": 199.99,
+    "reduction": "-30%",
+    "currency": "€"
+  },
+  "attributes": [
+    {
+      "name": "Poids",
+      "value": "90 g"
+    },
+    {
+      "name": "Couleur(s)",
+      "value": "Bleu, jaune et orange"
+    },
+    {
+      "name": "Caractère",
+      "value": "Sympathique"
+    }
+  ],
+  "images": [
+    {
+      "original": "http://ranaivo_ynjqz.recrutement.antadis.fr/images/image1.jpg",
+      "thumbnail": "http://ranaivo_ynjqz.recrutement.antadis.fr/images/miniature1.jpg"
+    },
+    {
+      "original": "http://ranaivo_ynjqz.recrutement.antadis.fr/images/image2.jpg",
+      "thumbnail": "http://ranaivo_ynjqz.recrutement.antadis.fr/images/miniature2.jpg"
+    }
+  ]
+}

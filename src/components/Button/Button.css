@@ -1,0 +1,21 @@
+.btn--black {
+    background: #000000!important;
+}
+.btn {
+    color: #fff!important;
+    min-width: 262px!important;
+    height: 67px;
+    border-radius: 0!important;
+    font-size: 24px!important;
+    font-family: 'Liberation Serif';
+    opacity: 1;
+    transition: opacity 0.33s ease-in-out!important;
+}
+
+.btn img {
+    margin-right: 10px;
+}
+
+.btn:hover {
+    opacity: 0.7;
+}

@@ -1,0 +1,26 @@
+.tab-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 13px;
+    font-family: 'MuseoSans-300';
+    font-size: 18px;
+    color: #666666;
+}
+.tab-item:first-child {
+    flex: 1.1;
+}
+.tab-item:nth-child(2) {
+    flex: 1.29;
+}
+.tab-item:last-child {
+    flex: 1;
+}
+.tab-item__title {
+    margin-bottom: 0;
+}
+
+.tab-item--active {
+    background: #d4d4d4;
+}

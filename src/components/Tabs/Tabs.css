@@ -1,0 +1,20 @@
+.tabs {
+    display: flex;
+    align-items: center;
+    border-bottom: 7px solid #d4d4d4;
+}
+
+.content {
+    padding-top: 15px;
+    font-family: 'MuseoSans-300';
+    color: #999999;
+    font-size: 16px;
+    line-height: 1.41rem;
+    margin-bottom: 65px;
+    letter-spacing: 0;
+    min-height: 253px;
+}
+
+.content .product-row {
+    color: #999999!important;
+}

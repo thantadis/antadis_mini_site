@@ -1,0 +1,17 @@
+.product-title {
+    padding: 15px;
+    background: #d4d4d4;
+    font-size: 16px;
+    font-family: 'MuseoSans-300';
+    margin-bottom: 20px;
+}
+
+.product-content {
+    font-size: 14px;
+    color: #999999;
+    font-family: 'MuseoSans-300';
+}
+
+.tab-item-mobile {
+    margin-bottom: 30px;
+}
